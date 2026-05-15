@@ -1,69 +1,78 @@
-# Hi, I'm Athira Krishna K 👋
+<h1 align="center">Hi 👋, I'm Athira Krishna K</h1>
 
-💼 Software Developer @ Manappuram Finance Limited, Thrissur
-⚙️ Stack: Angular | .NET Core | SQL Server | Python
-🎓 B.Tech in Electronics & Communication Engineering
-🌱 Building real projects and growing every day
+<h3 align="center">
+Software Developer | Angular • .NET • Python
+</h3>
 
----
-
-## 🛠️ Technical Skills
-
-**Frontend:** HTML, CSS, JavaScript, TypeScript, Angular
-**Backend:** C#, .NET Core, RESTful APIs, JWT Authentication
-**Database:** SQL Server, MySQL, PLSQL
-**Data & Analytics:** Python, Pandas, Power BI, Tableau, Matplotlib, NumPy
-**Tools:** Git, GitHub
+<p align="center">
+Building modern web applications and growing every day 🚀
+</p>
 
 ---
 
-## 💼 Professional Experience
+## 🌸 About Me
 
-**Software Developer — Manappuram Finance Limited** *(Dec 2024 – Present)*
-- Built dynamic, responsive web apps using Angular and .NET Core
-- Developed RESTful APIs to handle complex business logic
-- Implemented JWT & ASP.NET Identity for secure authentication
-- Optimized SQL databases for faster data retrieval
-- Collaborated with cross-functional teams for timely delivery
-
----
-
-## 🚀 Projects
-
-### 💍 Wedding Invitation Website (x2)
-- Built two fully responsive wedding invitation websites
-- One deployed live on **Netlify**
-- Integrated **OG image** for rich social media sharing (WhatsApp, Instagram previews)
-- Tech: JavaScript, HTML, CSS
-
-### 🏕️ Stranger Camp — Munnar Trip Planner
-- A group trip planning platform for StrangeLink Team to connect and travel
-- Unique concept with custom UI
-- Tech: JavaScript, HTML, CSS
-- *(Deployment coming soon)*
-
-### 📊 TATA Stock Market & Election Data Analysis
-- Analyzed TATA Group stock trends using Python and Power BI
-- Designed SQL database and built interactive Power BI dashboards
-- Tech: Python, Pandas, Power BI, SQL
-
-### 🚦 Smart Traffic Management System *(University Project)*
-- AI-based image processing to optimize traffic flow
-- Integrated sensors with Raspberry Pi
-- Tech: Python, Raspberry Pi
+- 💼 Software Developer @ Manappuram Finance Limited
+- 🌱 Currently learning advanced full-stack development
+- 💻 Passionate about Angular, .NET Core & Python
+- 📊 Interested in Data Analytics & AI/ML
+- 📍 Kerala, India
 
 ---
 
-## 📜 Certifications
+## 🚀 Tech Stack
 
-- Python Core + Data Science Professional — Techmindz, Kochi
+<p align="left">
 
----
+<img src="https://skillicons.dev/icons?i=angular,ts,js,dotnet,cs,python,mysql,git,github,vscode" />
 
-## 📫 Connect with Me
-
-[LinkedIn](https://www.linkedin.com/in/athirakrishnak/) | [Email](athira2002krishna@gmail.com)
+</p>
 
 ---
 
-*"Not perfect, but always improving."* 🚀
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AthiraKrishnaK&show_icons=true&theme=tokyonight" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AthiraKrishnaK&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 💌 Wedding Invitation Website
+Responsive animated invitation website with RSVP and social sharing.
+
+**Tech Used:** HTML, CSS, JavaScript
+
+---
+
+### 🏕️ Stranger Camp — Trip Planner
+Travel planning platform for group trip coordination.
+
+**Tech Used:** HTML, CSS, JavaScript
+
+---
+
+### 📊 TATA Stock Market Analysis
+Analyzed stock market trends using Python & Power BI dashboards.
+
+**Tech Used:** Python, Pandas, SQL, Power BI
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/">
+LinkedIn
+</a>
+
+</p>
